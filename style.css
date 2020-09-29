@@ -1,9 +1,13 @@
+body {
+  background-color: lime;
+}
+
 h1 {
   color: limegreen;
 }
 
-h2 {
-  background-color: magenta;
+#login {
+  color: limegreen;
 }
 
 /*# sourceMappingURL=style.css.map */
