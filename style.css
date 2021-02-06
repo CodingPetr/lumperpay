@@ -6,11 +6,18 @@ body {
   background-color: silver;
 }
 
-h1 {
+h1, h2 {
   padding: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: center;
   background-color: silver;
   color: black;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: large;
 }
 
 #login {
